@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yoga Bot - Habuild</title>
+    <!-- Include the Tailwind CSS stylesheet -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" href="logo.png">
+    <style>
+        body {
+            background: radial-gradient(circle, #0f0c29, #302b63, #24243e);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #e0e0e0;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(15px);
+            border-radius: 15px;
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            padding: 30px;
+            max-width: 500px;
+            width: 100%;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(45deg, #6dd5ed, #2193b0);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        select, input[type="text"] {
+            background: rgba(255, 255, 255, 0.2);
+            border: none;
+            padding: 10px;
+            margin-bottom: 1rem;
+            border-radius: 10px;
+            width: 100%;
+            color: #fff;
+        }
+
+        select:focus, input[type="text"]:focus {
+            outline: none;
+            box-shadow: 0 0 10px #2193b0, 0 0 40px #6dd5ed, 0 0 80px #b92b27;
+        }
+
+        #send-button, #paste {
+            background: linear-gradient(45deg, #6dd5ed, #2193b0);
+            border: none;
+            padding: 10px 20px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        #send-button:hover, #paste:hover {
+            background: linear-gradient(45deg, #2193b0, #6dd5ed);
+        }
+
+        .toggle-switch {
+            position: relative;
+            width: 40px;
+            height: 20px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        .toggle-switch:before {
+            content: '';
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            background-color: #fff;
+            transition: transform 0.3s ease;
+        }
+
+        .toggle-switch:checked:before {
+            transform: translateX(20px);
+        }
+
+        #chat {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            padding: 15px;
+            max-height: 200px;
+            overflow-y: auto;
+            margin-top: 1.5rem;
+        }
+
+        a {
+            color: #6dd5ed;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: #2193b0;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Yoga Bot</h1>
+        <div class="flex mb-6">
+            <select id="wordLength" class="mr-4">
+                <option value="10 to 20">10 to 20 Words</option>
+                <option value="20 to 30">20 to 30 Words</option>
+                <option value="30 to 40">30 to 40 Words</option>
+                <option value="40 to 50">40 to 50 Words</option>
+                <option value="50 to 60">50 to 60 Words</option>
+                <option value="60 to 70">60 to 70 Words</option>
+                <option value="70 to 80">70 to 80 Words</option>
+                <option value="80 to 90">80 to 90 Words</option>
+                <option value="90 to 100">90 to 200 Words</option>
+                <option value="90 to 100">90 to 300 Words</option>
+            </select>
+            <select id="wordMode">
+                <option value="maximum">Maximum Words</option>
+                <option value="minimum">Minimum Words</option>
+            </select>
+        </div>
+        <div class="w-full my-4">
+            <input type="range" id="temperature-input" min="0.1" max="1" step="0.1" value="0.5">
+        </div>
+        <div class="flex items-center justify-between mt-4">
+            <span id="autoCopy" class="cursor-pointer bg-green-200 hover:bg-green-300 text-green-700 rounded px-3 py-1 font-medium text-sm">Auto Copy</span>
+            <span id="Disclaimer" class="cursor-pointer bg-red-200 hover:bg-red-300 text-red-700 rounded px-3 py-1 font-medium text-sm">Disclaimer</span>
+            <span id="reset-memory" class="cursor-pointer bg-blue-200 hover:bg-blue-300 text-blue-700 rounded px-3 py-1 font-medium text-sm">Reset</span>
+            <div class="flex items-center">
+                <input type="checkbox" id="toggle" class="toggle-switch">
+                <span id="modelName" class="ml-2 font-bold">GPT 3.5</span>
+            </div>
+        </div>
+        <div id="chat"></div>
+        <form id="chat-form" class="mt-6 flex">
+            <input type="text" id="message-input" placeholder="Enter your message...">
+            <div class="ml-2">
+                <a id="paste" class="bg-red-500 text-white font-bold px-4 py-2 rounded">Paste</a>
+                <button type="submit" id="send-button" class="bg-blue-500 text-white font-bold py-2 px-4 rounded hidden">Send</button>
+            </div>
+        </form>
+        <div class="text-center mt-8">
+            <a href="https://chrome.google.com/webstore/detail/wati-button/alefockfiofdifblimnlmgnekfejolgo/related?hl=en&authuser=1" target="_blank" class="text-sm font-medium">Wati-Button Extension</a>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.4.0/axios.min.js"></script>
+    <script type="module" src="script.js"></script>
+</body>
+
+</html>
