@@ -320,17 +320,30 @@ Once they verify, we'll add the points to your account ASAP! if its verifed and 
 /////NEW Update //////
 
 "
-We’re attempting a World Record for the first-ever World Meditation Day! 🏅🌍
+⏳ The countdown is almost over!
 
-🗓 21st December | ⏰ 6:30 AM
+🔥 Let's start our 3-Day Sugar Detox Challenge tomorrow. 🎯
 
-Are you excited to be part of this historic moment? 😱✨
+🛑 Cutting sugar means:
+✅ More focus 🧠
+✅ Better sleep 😴
+✅ Glowing skin ✨
 
-👉 To INVITE, Click below for DASHBOARD:
-https://me.habuild.in/myreferals
+🗓 Dates: 5th - 7th February, 2025
+⏰ Time: 11:30 AM
 
-1. Click on the above link (Sign in if required) ✅
-2. Share on WhatsApp to invite "
+Get ready to break free from sugar cravings and become super energized! 💪💥
+
+✨ It’s your time to shine.. 
+
+See you tomorrow LIVE! 🥳
+
+Join us using the link below! 👇
+➡ https://api.habuild.in/SugerDetox
+ 
+Note:
+1. The session will be a mix of English and Hindi
+2. Recordings will be available. 
 
 "do not give me a short answer if selected a 90 to 200 words 'your replay shoud be longer then "
 ,
