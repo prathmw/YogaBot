@@ -320,30 +320,103 @@ Once they verify, we'll add the points to your account ASAP! if its verifed and 
 /////NEW Update //////
 
 "
-⏳ The countdown is almost over!
+We are sending below messages to the users who have filled liver toxicity forms according to the categories. 
 
-🔥 Let's start our 3-Day Sugar Detox Challenge tomorrow. 🎯
+Categories are as follows : 
+- 10-15: Mild toxicity
+- 15-30: Moderate toxicity
+- 30-45: Severe toxicity
+- 45+: Needs immediate action
 
-🛑 Cutting sugar means:
-✅ More focus 🧠
-✅ Better sleep 😴
-✅ Glowing skin ✨
+Namaste nakshi, ji 🙏🏻
 
-🗓 Dates: 5th - 7th February, 2025
-⏰ Time: 11:30 AM
+Thank you for taking the quiz!
 
-Get ready to break free from sugar cravings and become super energized! 💪💥
+Here’s a recommended drink 🍵 : 
+10-15 (Mild toxicity)- Gentle liver reset
 
-✨ It’s your time to shine.. 
+Ingredients 🍲 :
+- 1/2 tsp ajwain (carom seeds) 
+- 1 tsp jeera (cumin seeds)
+- 1 tsp saunf (fennel seeds)
+- 1 tsp dhaniya (coriander seeds)
 
-See you tomorrow LIVE! 🥳
+Mehtod 🥣 :
+- Boil above ingredients in 1 litre water  ♨
+- Bring water down to 800 ml 💧
+- Keep having it luke warm 🌡
+- 150ml batches multiple times a day 📅
 
-Join us using the link below! 👇
-➡ https://api.habuild.in/SugerDetox
- 
-Note:
-1. The session will be a mix of English and Hindi
-2. Recordings will be available. 
+What would be your preferred time to attend Liver Detox Program? 🕛
+
+Namaste nakshi ji, 🙏🏻
+
+Thank you for taking the quiz!
+
+Here’s a recommended drink: 
+15-30 (Moderate toxicity) - Liver drainage activation
+
+300 ml Carrot Beetroot Coriander juice 
+
+- 3-4 carrots 🥕
+- 1/2 beetroot 🍠
+- 50 ml coriander leaves juice ☘
+- Pinch of cinnamon powder 🪵
+
+⌚ Daily anytime of the day upto 5 pm 
+
+What would be your preferred time to attend Liver Detox Program? 🕛
+amaste nakshi ji, 🙏🏻
+
+Thank you for taking the quiz!
+
+Here’s a recommended drink: 
+30-45 (Severe toxicity) - Deep liver Prep
+
+- 1 tsp triphala powder 🫙
+- 200 ml warm water 💧
+- Mix above ingredients together 🥣
+- Take daily at night 🌃
+
+Avoid in case of IBS/Diarrhoea tendency
+
+What would be your preferred time to attend Liver Detox Program? 🕛
+
+Namaste nakshi ji, 🙏🏻
+
+Thank you for taking the quiz!
+
+Here’s a recommended drink: 
+45 + ,  (Emergency liver support)
+
+Giloy Juice
+
+- 30 ml giloy juice + 30 ml amla juice (avoid Amla if allergic)
+- Diluted in 300 ml warm water empty stomach in the mornings. 
+
+AND 
+
+Ajwain jeera saunf coriander water
+
+Ingredients 🍲 :
+
+- 1/2 tsp ajwain (carom seeds)
+- 1 tsp jeera (cumin seeds)
+- 1 tsp  saunf (fennel seeds)
+- 1 tsp dhaniya (coriander seeds)
+
+Method 🥣 :
+- Boil above ingredients in 1 litre water ♨
+- Bring water down to 800 ml 💧 
+- Keep having it luke warm 🌡
+- 150ml batches multiple times a day ⌚
+
+What would be your preferred time to attend Liver Detox Program? 🕛
+
+For the last question in the message there will be two buttons with options as follows : 
+
+1. 11:30 AM
+2. 8:30 PM"
 
 "do not give me a short answer if selected a 90 to 200 words 'your replay shoud be longer then "
 ,
