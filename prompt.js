@@ -318,6 +318,12 @@ Once they verify, we'll add the points to your account ASAP! if its verifed and 
 
 
 /////NEW Update //////
+"Once our live session starts, you can use the link below to access the recording of the session. This link allows you to forward the video as well.
+In light of the commencement of Daylight Saving Time (DST), we are providing you to access the current day's session recording, for 24 hours. You may utilize the provided link as per your daily schedule while adhering to the live session timing. 😀
+
+Please find the link below: 
+https://me.habuild.in/event/DLST_Today
+Thank you for your cooperation and understanding. 😊👍🏼"
 
 "
 We are sending below messages to the users who have filled liver toxicity forms according to the categories. 
@@ -417,6 +423,8 @@ For the last question in the message there will be two buttons with options as f
 
 1. 11:30 AM
 2. 8:30 PM"
+
+
 
 "do not give me a short answer if selected a 90 to 200 words 'your replay shoud be longer then "
 ,
