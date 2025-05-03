@@ -434,5 +434,133 @@ For the last question in the message there will be two buttons with options as f
 
 
 "do not give me a short answer if selected a 90 to 200 words 'your replay shoud be longer then "
+
+Community Events (Happening on MAY)  Detail Information 
+for Communication Team 
+1) 5 DAY Surya Namaskar Challenge 
+�
+�
+ 
+a. Expert name :- Kashish Makhijani  
+b. Challenge Start Date : 5th May  
+c. Challenge End Date :9th May  
+d. Session Timings - Daily 5:30 Am to 6:15 Am  
+e. Recording Available : Yes for next 15 Days  
+FAQ 
+Q1. Who Can Attend ? 
+➡
+ Free Members and Paid members Both can Attend the session. 
+Q2. How will the Free Members get the session link and session 
+Reminder? 
+➡
+ On One Habit Whatsapp Channel Group  
+Q3. How will the Paid Members get the session link and session 
+Reminder? 
+➡
+ On Habuild Members Group Whatsapp Community + Those who have 
+filled calendar Feedback form and if they select this community sessions they 
+will get personal reminders on their registered Mobile number too. 
+Q4. What will we do in the session? What will be the session format ? 
+➡
+ On Day 1: We will do 20 Sets Of SuryaNamaskar  
+On Day 2: We will do 40 Sets Of SuryaNamaskar  
+On Day 3: We will do 60 Sets Of SuryaNamaskar  
+On Day 4: We will do 80 Sets Of SuryaNamaskar  
+On Day 5: We will do 108 Sets Of SuryaNamaskar  
+Q5. Benefits of Doing this Challenge ? 
+✨
+ Enhanced blood circulation 
+✨
+ Better posture 
+✨
+ Improved strength 
+✨
+ Increased energy levels 
+ADDITIONAL INFO : - - - - - 
+1. Those who will join get a participation certificate 
+�
+�
+ 
+2. The sessions will be in a mix of Hindi and English 
+�
+�
+ 
+3. Recordings will be available 
+�
+�
+ 
+4. Our regular yoga classes will continue at 6:30 AM 
+�
+�
+ 
+5. Those who download certificate will get link to Intermediate 
+Yoga session. 
+2)  
+�
+�
+ 6-Day Women’s Health Workshop  
+Overview about this session 
+Women's bodies go through so much — this series brings expert support on 
+menopause, menstrual health, skin, bones, hormones & emotional well-being, 
+all through yoga and deep conversations. 
+Expert name : 
+Day 1 : Dr Poonam 
+Day 2 :  Dr. Bindiya Mukhi Kataria 
+Day 3 : Tanvi 
+Day 4 :  Dr Umesh Wadhavani 
+Day 5 : Dr Nisha Bhatnagar 
+Day 6 : Kashish Makhijani 
+a. WorkShop Start Date : 5th May  
+b. WorkShop End Date : 10th May 
+c. Session Timings - Daily 11:30 Am to 12:30 Pm 
+d. Recording Available : Yes for next 15 Days  
+FAQ 
+Q1. Who Can Attend? 
+➡
+ Paid Members can attend the session only. 
+Q2. How will the Paid Members get the session link and session 
+Reminder? 
+➡
+ On Habuild Members Group Whatsapp Community + Those who have 
+filled calendar Feedback form and if they select this community sessions they 
+will get personal reminders on their registered Mobile number too. 
+Q3. What will be the session format ? 
+➡
+ Habuild is organizing a 6-day Women’s Health Workshop 
+�
+�
+ 
+Day 1 - Joint Effort: Women’s Ortho Wellness 
+Day 2 - Glow & Grow: Women’s Skin Wellness 
+Day 3 - Rhythm & Rise: Women’s Movement Magic 
+Day 4 - Thrive Within: Women’s Nutrition Essentials 
+Day 5 - Her health, her power : Women's Health Journey 
+Day 6 - Face Yoga + Shaking Therapy 
+3)  
+�
+�
+ 2-week Kids Summer Camp ( Monday No session)  
+Overview about this session :  
+Open to all! A joyful space where movement meets creativity and learning — 
+perfect to keep kids active and engaged. 
+a. WorkShop Start Date : 13th May  
+b. WorkShop End Date : 25th May 
+c. Session Timings - Daily 11:30 Am to 1:00 Pm 
+d. Recording Available : Yes for next 15 Days  
+e. Age Criteria : 5-12 but Everyone can join and Enjoy. 
+Expert name :  
+Day 1 : Bhakti Nichani ( Tuesday ) 
+Day 2 : Seema ( Wednesday) 
+Day 3 : Bhakti Nichani (Thursday) 
+Day 4 : Bhakti Nichani ( Friday ) 
+Day 5 : Akansha ( Saturday ) 
+Day 6 : Bhakti Nichani ( Sunday ) 
+NOTE : Monday No Session 
+Day 7 : Seema ( Tuesday ) 
+Day 8 : Dr. Umesh ( Wednesday ) 
+Day 9 : Seema ( Thursday ) 
+Day 10 : Bhakti Nichani ( Friday ) 
+Day 11 : Sudarshan Mahajan ( Saturday ) 
+Day 12 : Sudarshan Mahajan ( Sunday 
 ,
 `;
