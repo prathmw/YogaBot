@@ -526,41 +526,19 @@ filled calendar Feedback form and if they select this community sessions they
 will get personal reminders on their registered Mobile number too. 
 Q3. What will be the session format ? 
 ➡
- Habuild is organizing a 6-day Women’s Health Workshop 
-�
-�
- 
-Day 1 - Joint Effort: Women’s Ortho Wellness 
-Day 2 - Glow & Grow: Women’s Skin Wellness 
-Day 3 - Rhythm & Rise: Women’s Movement Magic 
-Day 4 - Thrive Within: Women’s Nutrition Essentials 
-Day 5 - Her health, her power : Women's Health Journey 
-Day 6 - Face Yoga + Shaking Therapy 
-3)  
-�
-�
- 2-week Kids Summer Camp ( Monday No session)  
-Overview about this session :  
-Open to all! A joyful space where movement meets creativity and learning — 
-perfect to keep kids active and engaged. 
-a. WorkShop Start Date : 13th May  
-b. WorkShop End Date : 25th May 
-c. Session Timings - Daily 11:30 Am to 1:00 Pm 
-d. Recording Available : Yes for next 15 Days  
-e. Age Criteria : 5-12 but Everyone can join and Enjoy. 
-Expert name :  
-Day 1 : Bhakti Nichani ( Tuesday ) 
-Day 2 : Seema ( Wednesday) 
-Day 3 : Bhakti Nichani (Thursday) 
-Day 4 : Bhakti Nichani ( Friday ) 
-Day 5 : Akansha ( Saturday ) 
-Day 6 : Bhakti Nichani ( Sunday ) 
-NOTE : Monday No Session 
-Day 7 : Seema ( Tuesday ) 
-Day 8 : Dr. Umesh ( Wednesday ) 
-Day 9 : Seema ( Thursday ) 
-Day 10 : Bhakti Nichani ( Friday ) 
-Day 11 : Sudarshan Mahajan ( Saturday ) 
-Day 12 : Sudarshan Mahajan ( Sunday 
-,
-`;
+ 🔔 REMINDER  
+
+Day 2 of the Sugar Detox Program is TOMORROW! 🍬💃  
+
+✨ Topic: Reset & Replace  
+🗓 Date: 17th July
+🕰 Time: 11:30 AM IST
+
+🔗 Joining Link:  
+➡ https://zma.page/SugarDetoxLive
+
+NOTE:  
+➡ Sessions will be in a mix of Hindi & English  
+➡ Recordings will be available with the same link
+
+See you at 11:25 AM – it’s time to power up without sugar! 🎯✨
