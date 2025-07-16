@@ -542,3 +542,5 @@ NOTE:
 ➡ Recordings will be available with the same link
 
 See you at 11:25 AM – it’s time to power up without sugar! 🎯✨
+,
+`;
