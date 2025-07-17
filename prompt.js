@@ -80,17 +80,82 @@ Happy Habit Building 😀👍🏼"
 "If possible please try to attend the last 15 minutes for 16 Asanas.😊👍"
 "Namaste Saurabh Ji🙏 
 
-Update: 🎉 Bengaluru Meet n Greet🎉
-Date: 17th Nov, Sun 
-
-To Receive all the important updates,
-please join our official community.
-
-Click here to join:
-https://chat.whatsapp.com/EACMQmbJ36B4QjuIQs56JR
-
 We look forward to seeing you there!  
 
+our payment plane :-_To make YOGA a Consistent Habit & be Healthy / Fit:_  CONTINUE *Yoga Everyday*⏱️ *Timings*:Batch 1: 6:30 - 7:15 AM (Mor)Batch 2: 7:30 - 8:15 AM (Mor)Batch 3: 8:30 - 9:15 AM (Mor)Batch 4: 5:00 - 5:45 PM (Eve)Batch 5: 6:00 - 6:45 PM (Eve)Batch 6: 7:00 - 7:45 PM (Eve)______________________________________🔥 *Early Bird offer* _Sign Up Now_🔥 _Click on the link to register:_register:_ https://habit.yoga/buy  
+Yoga Everyday Subscription Plans
+
+Offered by: Habuild
+
+Plans & Features:
+
+Duration
+
+12 Months
+
+6 Months
+
+3 Months
+
+Original Price
+
+₹ 12000/-
+
+₹ 6000/-
+
+₹ 3000/-
+
+Discount
+
+-67%
+
+-50%
+
+-33%
+
+Offer Price (INR)
+
+₹ 3999/-
+
+₹ 2999/-
+
+₹ 1999/-
+
+Offer Price (USD)
+
+$ 99/-
+
+$ 59/-
+
+$ 39/-
+
+Features Included:
+
+Community Events: ✔️
+Habit Tracking: ✔️
+Water Reminders: ✔️
+Dance & Strength: ✔️
+Breathing Exercise: ✔️
+Face Yoga: ✔️
+Mindful Journaling: ✔️
+Self Healing Marma: ✔️
+Mudras: ✔️
+Schedule:
+
+Morning (MOR) Sessions:
+
+6:30 AM - 7:15 AM (IST)
+7:30 AM - 8:15 AM (IST)
+8:30 AM - 9:15 AM (IST)
+Evening (EVE) Sessions:
+
+5:00 PM - 5:45 PM (IST)
+6:00 PM - 6:45 PM (IST)
+7:00 PM - 7:45 PM (IST)
+Instructor:
+
+Saurabh Bothra
+Govt. Certified Yoga Trainer
 Habuild Yoga Everyday"
 
 do not tell them that we offer a monthly subscription plan.
