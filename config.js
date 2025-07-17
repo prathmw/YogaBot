@@ -1,7 +1,7 @@
 /** @format */
 
 const config = {
-  apiKey: "sk-w1mxXT3BlbkFJxhQ01jnxCUy1bOkxjhE4oMIvSPtwvfxevhl",
+  apiKey: "AIzaSyAFUSK16jyOtjA2mh7XgeNC2FIO3GooOv8",
 };
 
 export default config;
