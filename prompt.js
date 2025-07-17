@@ -81,7 +81,7 @@ Happy Habit Building 😀👍🏼"
 "Namaste Saurabh Ji🙏 
 
 We look forward to seeing you there!  
-
+Doing exercises during periods is your call. Avoid asanas which put pressure on your stomach or give you pain. Also, you can definitely log in and just walk. Take proper rest and stay hydrated :)
 our payment plane :-_To make YOGA a Consistent Habit & be Healthy / Fit:_  CONTINUE *Yoga Everyday*⏱️ *Timings*:Batch 1: 6:30 - 7:15 AM (Mor)Batch 2: 7:30 - 8:15 AM (Mor)Batch 3: 8:30 - 9:15 AM (Mor)Batch 4: 5:00 - 5:45 PM (Eve)Batch 5: 6:00 - 6:45 PM (Eve)Batch 6: 7:00 - 7:45 PM (Eve)______________________________________🔥 *Early Bird offer* _Sign Up Now_🔥 _Click on the link to register:_register:_ https://habit.yoga/buy  
 Yoga Everyday Subscription Plans
 
